@@ -1,6 +1,6 @@
 ## Introduction
 
-![](https://github.com/Andrydood/Multi-Stage-Convolutional-Neural-Networks-for-3D-Object-Structure-Estimation-From-a-Single-Image/blob/master/Screen%20Shot%202018-01-16%20at%2021.52.15.png?)
+![](https://github.com/Andrydood/Multi-Stage-Convolutional-Neural-Networks-for-3D-Object-Structure-Estimation-From-a-Single-Image/blob/master/Screen%20Shot%202018-01-16%20at%2021.52.28.png?)
 
 This was my final project for the Computer Graphics, Vision and Imaging MSc at UCL.
 
@@ -26,7 +26,7 @@ The results of this were successfull as can be seen in the above image.
 
 The full write up can be found in the pdf on this repository.
 
-![](https://github.com/Andrydood/Multi-Stage-Convolutional-Neural-Networks-for-3D-Object-Structure-Estimation-From-a-Single-Image/blob/master/Screen%20Shot%202018-01-16%20at%2021.52.28.png?)
+![](https://github.com/Andrydood/Multi-Stage-Convolutional-Neural-Networks-for-3D-Object-Structure-Estimation-From-a-Single-Image/blob/master/Screen%20Shot%202018-01-16%20at%2021.48.15.png?)
 
 [1] D. Tomè, C. Russell, and L. Agapito, “Lifting from the deep: Convolutional 3d pose estimation
 from a single image,” CoRR, vol. abs/1701.00295, 2017.
